@@ -1,0 +1,154 @@
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\Core DB\Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah 1024 x 768\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Fixed Final Core DB Competition\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Lomba\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\PPT Core DB\Core DB\Ubah Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_About.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.exe
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\bin\Release\Core DB Competition.pdb
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csprojResolveAssemblyReference.cache
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_About.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Count_The_Plants.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Kill_The_Hama.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Main_Menu.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Peta.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Form_Where_Are_The_Tools.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Properties.Resources.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_1.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_2.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_3.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_4.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_5.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_6.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core_DB_Competition.Story_Line_7.resources
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.csproj.GenerateResource.Cache
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.exe
+E:\Daiva\Homework\Kuliah\Semester 2\Competition\Core DB - Hadi's Team\Core DB\Final Program\Challange Fix\Core DB Competition\Core DB Competition\obj\x86\Release\Core DB Competition.pdb
