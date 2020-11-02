@@ -1,0 +1,308 @@
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Now_Loading.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\zData0613\Daiva\PBO Project\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\ResolveAssemblyReference.cache
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.frmLoading.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\GenerateResource.read.1.tlog
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\GenerateResource.write.1.tlog
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+F:\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 2\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\Final\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+F:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\Final (Alvin)\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Unmortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+F:\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+F:\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Load_Game.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Save_Game.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\Kuliah\Tugas Kuliah\Semester 2\PBO\Tugas PBO Fix 9 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\YuKi\C#\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\YuKi\C#\PBO Project Time Line 4\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+I:\Tugas PBO Fix 11 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\PBO Project Time Line 4\Tugas PBO Fix 12 Juni 2014\PBO Time Line 4\File\Project PBO Monopoly\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Buy_Sell_Build.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Exit.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Dua.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Go_Satu.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_High_Scores.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Main_Menu.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Mortage.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Pay_Use_Card.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Peta.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Select_Character.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Use_Card.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Loading.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Properties.Resources.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_Thank_You.resources
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\bin\Release\Project PBO Monopoly.exe
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\bin\Release\Project PBO Monopoly.pdb
+D:\zData0613\Daiva\Homework\Kuliah\Semester 2\PBO\PBO Project\Project PBO Monopoly\Michael's Team\Project PBO Monopoly\obj\x86\Release\Project_PBO_Monopoly.Form_About.resources

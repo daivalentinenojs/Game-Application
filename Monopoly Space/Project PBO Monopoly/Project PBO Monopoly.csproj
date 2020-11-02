@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AC446DAC-E01C-4C0F-A514-6BC128586394}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project_PBO_Monopoly</RootNamespace>
+    <AssemblyName>Project PBO Monopoly</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Blok1.cs" />
+    <Compile Include="Blok2.cs" />
+    <Compile Include="Blok3.cs" />
+    <Compile Include="Blok4.cs" />
+    <Compile Include="Form_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_About.Designer.cs">
+      <DependentUpon>Form_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Buy_Sell_Build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Buy_Sell_Build.Designer.cs">
+      <DependentUpon>Form_Buy_Sell_Build.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Exit.Designer.cs">
+      <DependentUpon>Form_Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Go_Dua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Go_Dua.Designer.cs">
+      <DependentUpon>Form_Go_Dua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Go_Satu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Go_Satu.Designer.cs">
+      <DependentUpon>Form_Go_Satu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Main_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Main_Menu.Designer.cs">
+      <DependentUpon>Form_Main_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Mortage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Mortage.Designer.cs">
+      <DependentUpon>Form_Mortage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Pay_Use_Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Pay_Use_Card.Designer.cs">
+      <DependentUpon>Form_Pay_Use_Card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Peta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Peta.Designer.cs">
+      <DependentUpon>Form_Peta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Select_Character.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Select_Character.Designer.cs">
+      <DependentUpon>Form_Select_Character.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Use_Card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Use_Card.Designer.cs">
+      <DependentUpon>Form_Use_Card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Loading.Designer.cs">
+      <DependentUpon>Form_Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kartu.cs" />
+    <Compile Include="Pemain.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form_High_Scores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_High_Scores.Designer.cs">
+      <DependentUpon>Form_High_Scores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Thank_You.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Thank_You.Designer.cs">
+      <DependentUpon>Form_Thank_You.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Tanah.cs" />
+    <EmbeddedResource Include="Form_About.resx">
+      <DependentUpon>Form_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Buy_Sell_Build.resx">
+      <DependentUpon>Form_Buy_Sell_Build.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Exit.resx">
+      <DependentUpon>Form_Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Go_Dua.resx">
+      <DependentUpon>Form_Go_Dua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Go_Satu.resx">
+      <DependentUpon>Form_Go_Satu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_High_Scores.resx">
+      <DependentUpon>Form_High_Scores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Main_Menu.resx">
+      <DependentUpon>Form_Main_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Mortage.resx">
+      <DependentUpon>Form_Mortage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Pay_Use_Card.resx">
+      <DependentUpon>Form_Pay_Use_Card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Peta.resx">
+      <DependentUpon>Form_Peta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Select_Character.resx">
+      <DependentUpon>Form_Select_Character.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Use_Card.resx">
+      <DependentUpon>Form_Use_Card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Loading.resx">
+      <DependentUpon>Form_Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Thank_You.resx">
+      <DependentUpon>Form_Thank_You.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\FormHighScores\FormHighScore.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

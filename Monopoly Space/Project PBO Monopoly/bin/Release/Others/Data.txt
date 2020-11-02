@@ -1,0 +1,5 @@
+Vaporeon, 1129, 14180
+Vaporeon, 10001410, 13900
+Vaporeon, 10340, 10340
+Eevee, 4350, 10150
+Eevee, 1500, 6400
