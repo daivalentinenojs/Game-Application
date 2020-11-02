@@ -1,0 +1,15 @@
+﻿Build started 10/27/2015 8:24:07 PM.
+     1>Project "E:\Daiva\Homework\Kuliah\Semester 4\Grafika Komputer\Semester Genap 2015\Project UTS\Cookie Run\Cookie Run\Cookie Run.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Cookie Run.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Cookie Run.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Cookie Run.cpp"
+         Cookie Run.cpp
+     1>e:\daiva\homework\kuliah\semester 4\grafika komputer\semester genap 2015\project uts\cookie run\cookie run\cookie run.cpp(3836): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daiva\homework\kuliah\semester 4\grafika komputer\semester genap 2015\project uts\cookie run\cookie run\cookie run.cpp(3889): error C4716: 'checkKalah' : must return a value
+     1>Done Building Project "E:\Daiva\Homework\Kuliah\Semester 4\Grafika Komputer\Semester Genap 2015\Project UTS\Cookie Run\Cookie Run\Cookie Run.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.57
