@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 5c0b02521d7115f48a54404995f7c54e
+timeCreated: 1463290611
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tessss-41_0
+    21300002: tessss-41_1
+    21300004: tessss-41_2
+    21300006: tessss-41_3
+    21300008: tessss-41_4
+    21300010: tessss-41_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tessss-41_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404
+        width: 326
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -106}
+        - {x: 115, y: -79}
+        - {x: 153, y: -40}
+        - {x: 163, y: -15}
+        - {x: 163, y: 38}
+        - {x: 150, y: 68}
+        - {x: 95, y: 105}
+        - {x: 47, y: 116}
+        - {x: -42, y: 116}
+        - {x: -66, y: 111}
+        - {x: -114, y: 87}
+        - {x: -137, y: 66}
+        - {x: -158, y: 30}
+        - {x: -157, y: -8}
+        - {x: -145, y: -37}
+        - {x: -116, y: -70}
+        - {x: -163, y: -111}
+        - {x: -163, y: -116}
+        - {x: -110, y: -116}
+        - {x: -105, y: -115}
+        - {x: -87, y: -108}
+        - {x: -69, y: -100}
+    - name: tessss-41_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 404
+        width: 326
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -101}
+        - {x: 77, y: -91}
+        - {x: 113, y: -76}
+        - {x: 153, y: -40}
+        - {x: 163, y: -15}
+        - {x: 163, y: 34}
+        - {x: 151, y: 60}
+        - {x: 114, y: 93}
+        - {x: 66, y: 116}
+        - {x: -55, y: 116}
+        - {x: -67, y: 113}
+        - {x: -125, y: 80}
+        - {x: -154, y: 52}
+        - {x: -163, y: -8}
+        - {x: -163, y: -15}
+        - {x: -148, y: -32}
+        - {x: -118, y: -70}
+        - {x: -163, y: -111}
+        - {x: -163, y: -116}
+        - {x: -110, y: -116}
+        - {x: -105, y: -115}
+        - {x: -87, y: -108}
+        - {x: -69, y: -100}
+    - name: tessss-41_2
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 404
+        width: 326
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -93}
+        - {x: 111, y: -77}
+        - {x: 154, y: -39}
+        - {x: 163, y: -24}
+        - {x: 163, y: 37}
+        - {x: 160, y: 54}
+        - {x: 128, y: 83}
+        - {x: 102, y: 97}
+        - {x: 66, y: 116}
+        - {x: -49, y: 116}
+        - {x: -111, y: 92}
+        - {x: -143, y: 58}
+        - {x: -158, y: 28}
+        - {x: -157, y: -13}
+        - {x: -141, y: -43}
+        - {x: -125, y: -57}
+        - {x: -114, y: -66}
+        - {x: -163, y: -111}
+        - {x: -163, y: -116}
+        - {x: -107, y: -116}
+        - {x: -84, y: -109}
+        - {x: -20, y: -101}
+        - {x: 44, y: -100}
+    - name: tessss-41_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 79
+        width: 326
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118, y: -72}
+        - {x: 148, y: -44}
+        - {x: 163, y: -20}
+        - {x: 163, y: 35}
+        - {x: 154, y: 53}
+        - {x: 132, y: 78}
+        - {x: 112, y: 93}
+        - {x: 69, y: 113}
+        - {x: 48, y: 116}
+        - {x: -40, y: 116}
+        - {x: -95, y: 102}
+        - {x: -137, y: 67}
+        - {x: -153, y: 45}
+        - {x: -161, y: -2}
+        - {x: -150, y: -36}
+        - {x: -115, y: -67}
+        - {x: -163, y: -111}
+        - {x: -163, y: -116}
+        - {x: -101, y: -116}
+        - {x: -67, y: -100}
+        - {x: 16, y: -101}
+        - {x: 64, y: -96}
+    - name: tessss-41_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 79
+        width: 326
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -100}
+        - {x: 131, y: -66}
+        - {x: 149, y: -44}
+        - {x: 163, y: -17}
+        - {x: 163, y: 34}
+        - {x: 150, y: 61}
+        - {x: 120, y: 89}
+        - {x: 69, y: 112}
+        - {x: 51, y: 116}
+        - {x: -49, y: 116}
+        - {x: -96, y: 98}
+        - {x: -114, y: 85}
+        - {x: -142, y: 62}
+        - {x: -158, y: 26}
+        - {x: -159, y: -8}
+        - {x: -140, y: -44}
+        - {x: -119, y: -61}
+        - {x: -163, y: -110}
+        - {x: -163, y: -116}
+        - {x: -114, y: -116}
+        - {x: -86, y: -111}
+        - {x: -57, y: -94}
+        - {x: -21, y: -104}
+    - name: tessss-41_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 79
+        width: 326
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: -89}
+        - {x: 133, y: -64}
+        - {x: 163, y: -23}
+        - {x: 163, y: 39}
+        - {x: 139, y: 79}
+        - {x: 92, y: 105}
+        - {x: 72, y: 111}
+        - {x: 44, y: 116}
+        - {x: -32, y: 116}
+        - {x: -44, y: 114}
+        - {x: -60, y: 111}
+        - {x: -100, y: 96}
+        - {x: -139, y: 64}
+        - {x: -156, y: 35}
+        - {x: -158, y: -5}
+        - {x: -150, y: -31}
+        - {x: -130, y: -76}
+        - {x: -163, y: -111}
+        - {x: -163, y: -116}
+        - {x: -115, y: -116}
+        - {x: -95, y: -113}
+        - {x: -54, y: -96}
+        - {x: 16, y: -105}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

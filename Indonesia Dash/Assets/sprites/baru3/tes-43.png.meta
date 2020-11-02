@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: a98b571f37663d047b8db617918e651d
+timeCreated: 1463279812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tes-43_0
+    21300002: tes-43_1
+    21300004: tes-43_2
+    21300006: tes-43_3
+    21300008: tes-43_4
+    21300010: tes-43_5
+    21300012: tes-43_6
+    21300014: tes-43_7
+    21300016: tes-43_8
+    21300018: tes-43_9
+    21300020: tes-43_10
+    21300022: tes-43_11
+    21300024: tes-43_12
+    21300026: tes-43_13
+    21300028: tes-43_14
+    21300030: tes-43_15
+    21300032: tes-43_16
+    21300034: tes-43_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tes-43_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 473
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 492
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 492
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 473
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 492
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 492
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 275
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 275
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 275
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_10
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 275
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 275
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 91
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 91
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 91
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 46
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 46
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tes-43_17
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 46
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
