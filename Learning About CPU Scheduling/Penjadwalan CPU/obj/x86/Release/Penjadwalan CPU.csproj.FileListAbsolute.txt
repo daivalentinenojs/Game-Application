@@ -1,0 +1,113 @@
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Form_Main_Menu.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Properties.Resources.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_1.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_FCFS.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Final Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_FCFS.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_RR.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_E.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_NE.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Form_Main_Menu.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_4.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Properties.Resources.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_1.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_4.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_5.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_6.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_7.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_8.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_9.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Test\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_FCFS.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_RR.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_E.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_NE.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Form_Main_Menu.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_4.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Properties.Resources.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_1.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_4.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_5.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_6.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_7.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_8.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_9.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.csprojResolveAssemblyReference.cache
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_FCFS.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_RR.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_E.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_NE.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Form_Main_Menu.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_2.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_3.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_4.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Properties.Resources.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_1.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_2.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_3.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_4.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_5.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_6.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_7.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_8.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_9.resources
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.exe
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.exe
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.pdb
+D:\Diedit Lagi\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.csprojResolveAssemblyReference.cache
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_FCFS.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_RR.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_E.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.CPU_SJF_NE.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Form_Main_Menu.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Map_4.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Properties.Resources.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_1.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_2.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_3.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_4.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_5.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_6.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_7.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_8.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan_CPU.Story_Line_9.resources
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.csproj.GenerateResource.Cache
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.exe
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\bin\Release\Penjadwalan CPU.pdb
+D:\zData0613\Daiva\SO Project - Penjadwalan CPU\SO Project - Penjadwalan CPU FIX\Penjadwalan CPU\Penjadwalan CPU\obj\x86\Release\Penjadwalan CPU.pdb
