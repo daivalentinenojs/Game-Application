@@ -1,0 +1,17 @@
+0 xxx
+1 Sumatera Utara
+2 Sumatera Barat
+3 Riau
+4 Sumatera Selatan
+5 Lampung
+6 Banten
+7 Jakarta
+8 Jawa Timur
+9 Bali
+10 NTB
+11 Papua Barat
+12 Maluku
+13 Sulawesi Utara
+14 Kalimantan Barat
+15 Gorontalo
+16 xxx

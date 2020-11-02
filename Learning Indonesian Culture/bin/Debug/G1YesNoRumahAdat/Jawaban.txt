@@ -1,0 +1,20 @@
+0 NAD Rumah Krong Bade
+1 SumBar Rumah Gadang
+2 Riau Rumah Melayu Selaso
+3 Jambi Rumah Panjang
+4 SumSel Rumah Limas
+5 Bangka Belitung Rumah Limas
+6 Bengkulu Rumah Rakyat
+7 Lampung Nowou Sesat
+8 DKI Jakarta Rumah Kebaya
+9 Jawa Barat Rumah Kasepuhan Cirebon
+10 Banten Rumah Badui
+11 Ja Teng Rumah Joglo
+12 DIY Bangsal Kencono
+13 Jatim Rumah Joglo Situbondo
+14 Bali Rumah Gapura Candi Bentar
+15 NTB Rumah Isata Sultan Sumbawa
+16 NTT Rumah Musalaki
+17 Kal Bar Rumah Istana Kesultanan Pontianak
+18 Kal Teng Rumah Betang
+19 Kal Sel Rumah Banjar Bubungan Tinggi

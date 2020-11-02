@@ -1,0 +1,4 @@
+s5=rumah adat
+s4=senjata
+s3=tarian
+s2=alat musik(simon says)
