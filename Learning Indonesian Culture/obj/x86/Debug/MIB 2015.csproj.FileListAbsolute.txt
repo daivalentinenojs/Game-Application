@@ -1,0 +1,237 @@
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\bin\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\bin\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\bin\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\bin\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+C:\Users\Daivalentineno\Desktop\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+C:\Users\Daivalentineno\Desktop\Cus\MIB 2015\obj\x86\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\Cus\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB 2015.exe
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+E:\project_MIB\Cus\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+E:\project_MIB\Cus\MIB 2015\bin\Debug\MIB 2015.exe
+E:\project_MIB\Cus\MIB 2015\bin\Debug\MIB 2015.pdb
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.exe
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+D:\MIB_2015\MIB 2015\bin\Debug\MIB 2015.exe
+D:\MIB_2015\MIB 2015\bin\Debug\MIB 2015.pdb
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+D:\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\bin\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\bin\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.exe
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_2015\MIB 2015\bin\Debug\MIB 2015.exe
+E:\project_MIB\MIB_2015\MIB 2015\bin\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG2.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG3.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG4.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG5.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG6.resources
+E:\project_MIB\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG7.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.exe
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\bin\Debug\MIB 2015.exe
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\bin\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG2.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG3.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG4.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG5.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG6.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG7.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+E:\project_MIB\MIB_H-24JAM\MIB_2015\MIB 2015\obj\x86\Debug\MIB_2015.Akhir.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.exe
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\bin\Debug\MIB 2015.exe
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\bin\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Akhir.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG2.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG3.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG4.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG5.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG6.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG7.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+E:\project_MIB\MIB_H-24JAM\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.hs.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.exe
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\bin\Debug\MIB 2015.exe
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\bin\Debug\MIB 2015.pdb
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Akhir.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG2.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG3.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG4.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG5.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG6.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG7.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.hs.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+E:\project_MIB\MIB_H-24JAM\new\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+D:\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.exe
+D:\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\bin\Debug\MIB 2015.exe
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\bin\Debug\MIB 2015.pdb
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Akhir.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG2.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG3.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG4.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG5.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG6.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG7.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.hs.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.game2.resources
+C:\Users\Daivalentineno\Desktop\MIB_2015v2\MIB 2015\obj\x86\Debug\MIB_2015.Jawaban.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\bin\Debug\MIB 2015.exe
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\bin\Debug\MIB 2015.pdb
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.csprojResolveAssemblyReference.cache
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.Akhir.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG1.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG2.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG3.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG4.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG5.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG6.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.CeritaG7.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.game2.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G0MainMenu.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G0RandomGame.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G1YesNoRumahAdat.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G2WrongPormBajuAdat.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.picMakananP1.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.G6OpenTheDoorBahasaTradisional.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.hs.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.Jawaban.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.kykAudi.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.Properties.Resources.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.Senjata2.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.StoryLine1_Intro.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB_2015.TitahRaja.resources
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.csproj.GenerateResource.Cache
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.exe
+E:\Daiva\Homework\Kuliah\Semester 4\Competition\MIB 2015\MIB 2015\obj\x86\Debug\MIB 2015.pdb
