@@ -1,0 +1,34 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     1016 MB
+FMOD failed to initialize the output device, attempting to initialize the null output.
+ 
+(Filename:  Line: 1076)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.801 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Homework\Kuliah\S1 - UBAYA\Semester 6\Competition\MIB 2016\macung\macung3\IndonesiaDashV1_Data\Managed\System.dll (this message is harmless)
