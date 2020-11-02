@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 485271567d80d884886c4ef49d78435c
+timeCreated: 1463260280
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-24_0
+    21300002: UI-24_1
+    21300004: UI-24_2
+    21300006: UI-24_3
+    21300008: UI-24_4
+    21300010: UI-24_5
+    21300012: UI-24_6
+    21300014: UI-24_7
+    21300016: UI-24_8
+    21300018: UI-24_9
+    21300020: UI-24_10
+    21300022: UI-24_11
+    21300024: UI-24_12
+    21300026: UI-24_13
+    21300028: UI-24_14
+    21300030: UI-24_15
+    21300032: UI-24_16
+    21300034: UI-24_17
+    21300036: UI-24_18
+    21300038: UI-24_19
+    21300040: UI-24_20
+    21300042: UI-24_21
+    21300044: UI-24_22
+    21300046: UI-24_23
+    21300048: UI-24_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-24_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 167
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 167
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 167
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 167
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 167
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 167
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 167
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 167
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_10
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 167
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 167
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 167
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 167
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 139
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 139
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 139
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 139
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 139
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 139
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 139
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-24_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 19}
+        - {x: -43, y: 17}
+        - {x: -48, y: 12}
+        - {x: -50, y: 7}
+        - {x: -50, y: -66}
+        - {x: -49, y: -70}
+        - {x: -47, y: -81}
+        - {x: 46, y: -81}
+        - {x: 46, y: 18}
+        - {x: 39, y: 19}
+      - - {x: -37, y: 52}
+        - {x: -42, y: 50}
+        - {x: -42, y: 30}
+        - {x: -40, y: 27}
+        - {x: 47, y: 27}
+        - {x: 47, y: 52}
+      - - {x: -71, y: 80}
+        - {x: -71, y: 67}
+        - {x: -68, y: 55}
+        - {x: 8, y: 55}
+        - {x: 8, y: 80}
+      - - {x: 69, y: 80}
+        - {x: 15, y: 80}
+        - {x: 11, y: 63}
+        - {x: 11, y: 55}
+        - {x: 72, y: 55}
+        - {x: 75, y: 56}
+        - {x: 75, y: 75}
+        - {x: 73, y: 77}
+    - name: UI-24_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 16}
+        - {x: -50.5, y: 15}
+        - {x: -50.5, y: -82}
+        - {x: 44.5, y: -82}
+        - {x: 44.5, y: 16}
+      - - {x: -42.5, y: 30}
+        - {x: -39.5, y: 24}
+        - {x: 45.5, y: 24}
+        - {x: 45.5, y: 44}
+        - {x: 43.5, y: 49}
+        - {x: -37.5, y: 49}
+        - {x: -42.5, y: 46}
+      - - {x: -72.5, y: 77}
+        - {x: -72.5, y: 61}
+        - {x: -68.5, y: 52}
+        - {x: 7.5, y: 52}
+        - {x: 7.5, y: 77}
+      - - {x: 43.5, y: 52}
+        - {x: 68.5, y: 52}
+        - {x: 73.5, y: 57}
+        - {x: 73.5, y: 71}
+        - {x: 65.5, y: 77}
+        - {x: 15.5, y: 77}
+        - {x: 9.5, y: 67}
+        - {x: 9.5, y: 56}
+        - {x: 10.5, y: 52}
+        - {x: 40.5, y: 52}
+        - {x: 41.5, y: 54}
+        - {x: 41.5, y: 58}
+        - {x: 41.5, y: 56}
+    - name: UI-24_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 31
+        width: 151
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -52.5, y: 10}
+        - {x: -52.5, y: -81}
+        - {x: 42.5, y: -81}
+        - {x: 42.5, y: 17}
+      - - {x: -44.5, y: 50}
+        - {x: -44.5, y: 28}
+        - {x: -36.5, y: 25}
+        - {x: 43.5, y: 25}
+        - {x: 43.5, y: 48}
+        - {x: 42.5, y: 50}
+      - - {x: -74.5, y: 78}
+        - {x: -74.5, y: 62}
+        - {x: -70.5, y: 53}
+        - {x: 5.5, y: 53}
+        - {x: 5.5, y: 78}
+      - - {x: 10.5, y: 78}
+        - {x: 7.5, y: 75}
+        - {x: 7.5, y: 53}
+        - {x: 69.5, y: 53}
+        - {x: 71.5, y: 57}
+        - {x: 71.5, y: 78}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

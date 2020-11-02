@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 76c20590de4a0434585cf7420920d9ea
+timeCreated: 1463381409
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-51_0
+    21300002: UI-51_1
+    21300004: UI-51_2
+    21300006: UI-51_3
+    21300008: UI-51_4
+    21300010: UI-51_5
+    21300012: UI-51_6
+    21300014: UI-51_7
+    21300016: UI-51_8
+    21300018: UI-51_9
+    21300020: UI-51_10
+    21300022: UI-51_11
+    21300024: UI-51_12
+    21300026: UI-51_13
+    21300028: UI-51_14
+    21300030: UI-51_15
+    21300032: UI-51_16
+    21300034: UI-51_17
+    21300036: UI-51_18
+    21300038: UI-51_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-51_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 165
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 165
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 165
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 165
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 165
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 165
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 165
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 165
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 165
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 165
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 165
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 165
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 165
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 165
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 165
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-51_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 116
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 15.5}
+        - {x: -52, y: -82.5}
+        - {x: 43, y: -82.5}
+        - {x: 43, y: 12.5}
+        - {x: 42, y: 15.5}
+      - - {x: -53, y: 67.5}
+        - {x: -53, y: 33.5}
+        - {x: 47, y: 33.5}
+        - {x: 47, y: 66.5}
+        - {x: 46, y: 67.5}
+    - name: UI-51_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 50
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 14.5}
+        - {x: -44, y: 14.5}
+        - {x: -50, y: 6.5}
+        - {x: -50, y: -80.5}
+        - {x: 44, y: -80.5}
+        - {x: 45, y: -78.5}
+        - {x: 45, y: 2.5}
+      - - {x: -50, y: 66.5}
+        - {x: -51, y: 64.5}
+        - {x: -51, y: 36.5}
+        - {x: -47, y: 32.5}
+        - {x: -39, y: 32.5}
+        - {x: -27, y: 44.5}
+        - {x: -27, y: 58.5}
+        - {x: -31, y: 66.5}
+      - - {x: 48, y: 66.5}
+        - {x: -21, y: 66.5}
+        - {x: -31, y: 46.5}
+        - {x: -31, y: 32.5}
+        - {x: 42, y: 32.5}
+        - {x: 44, y: 33.5}
+        - {x: 48, y: 45.5}
+    - name: UI-51_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 47
+        width: 129
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 13.5}
+        - {x: -41.5, y: 13.5}
+        - {x: -47.5, y: 9.5}
+        - {x: -47.5, y: -84.5}
+        - {x: 45.5, y: -84.5}
+        - {x: 48.5, y: -79.5}
+        - {x: 48.5, y: 7.5}
+      - - {x: -47.5, y: 65.5}
+        - {x: -47.5, y: 31.5}
+        - {x: 51.5, y: 31.5}
+        - {x: 51.5, y: 64.5}
+        - {x: 49.5, y: 65.5}
+    - name: UI-51_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 47
+        width: 131
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 14.5}
+        - {x: -54.5, y: -83.5}
+        - {x: 41.5, y: -83.5}
+        - {x: 41.5, y: 4.5}
+        - {x: 40.5, y: 14.5}
+      - - {x: -55.5, y: 66.5}
+        - {x: -55.5, y: 32.5}
+        - {x: 40.5, y: 32.5}
+        - {x: 44.5, y: 39.5}
+        - {x: 44.5, y: 66.5}
+    - name: UI-51_19
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 49
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 12.5}
+        - {x: -52.5, y: -83.5}
+        - {x: 42.5, y: -83.5}
+        - {x: 42.5, y: 12.5}
+      - - {x: 46.5, y: 49.5}
+        - {x: 46.5, y: 64.5}
+        - {x: -53.5, y: 64.5}
+        - {x: -53.5, y: 30.5}
+        - {x: 41.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

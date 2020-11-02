@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: a3a45f509762448478e47075816aca31
+timeCreated: 1463381555
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Artboard 70_0
+    21300002: UI_Artboard 70_1
+    21300004: UI_Artboard 70_2
+    21300006: UI_Artboard 70_3
+    21300008: UI_Artboard 70_4
+    21300010: UI_Artboard 70_5
+    21300012: UI_Artboard 70_6
+    21300014: UI_Artboard 70_7
+    21300016: UI_Artboard 70_8
+    21300018: UI_Artboard 70_9
+    21300020: UI_Artboard 70_10
+    21300022: UI_Artboard 70_11
+    21300024: UI_Artboard 70_12
+    21300026: UI_Artboard 70_13
+    21300028: UI_Artboard 70_14
+    21300030: UI_Artboard 70_15
+    21300032: UI_Artboard 70_16
+    21300034: UI_Artboard 70_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_Artboard 70_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 145
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 145
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 145
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 145
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 145
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 145
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 145
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 145
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 145
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_9
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 145
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_10
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 145
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 145
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_12
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 145
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI_Artboard 70_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 31
+        width: 134
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 14.5}
+        - {x: -42, y: -83.5}
+        - {x: 51, y: -83.5}
+        - {x: 53, y: -81.5}
+        - {x: 53, y: 14.5}
+      - - {x: -44, y: 57.5}
+        - {x: -48, y: 55.5}
+        - {x: -48, y: 33.5}
+        - {x: -45, y: 28.5}
+        - {x: 50, y: 28.5}
+        - {x: 50, y: 57.5}
+    - name: UI_Artboard 70_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 29
+        width: 132
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 18}
+        - {x: -39, y: -82}
+        - {x: 56, y: -82}
+        - {x: 56, y: 18}
+      - - {x: 17, y: 61}
+        - {x: 10, y: 59}
+        - {x: 13, y: 58}
+        - {x: 6, y: 61}
+        - {x: -47, y: 61}
+        - {x: -49, y: 58}
+        - {x: -49, y: 41}
+        - {x: -46, y: 32}
+        - {x: 49, y: 32}
+        - {x: 49, y: 59}
+        - {x: 41, y: 61}
+    - name: UI_Artboard 70_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 31
+        width: 149
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 15}
+        - {x: -39.5, y: 12}
+        - {x: -39.5, y: -79}
+        - {x: -33.5, y: -83}
+        - {x: 51.5, y: -83}
+        - {x: 55.5, y: -82}
+        - {x: 55.5, y: 15}
+      - - {x: -41.5, y: 58}
+        - {x: -43.5, y: 57}
+        - {x: -43.5, y: 36}
+        - {x: -39.5, y: 29}
+        - {x: 54.5, y: 29}
+        - {x: 54.5, y: 58}
+    - name: UI_Artboard 70_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 31
+        width: 133
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 17.5}
+        - {x: -35.5, y: 17.5}
+        - {x: -45.5, y: 11.5}
+        - {x: -45.5, y: -75.5}
+        - {x: -41.5, y: -80.5}
+        - {x: 45.5, y: -80.5}
+        - {x: 49.5, y: -77.5}
+        - {x: 49.5, y: 10.5}
+      - - {x: 19.5, y: 60.5}
+        - {x: 12.5, y: 58.5}
+        - {x: 15.5, y: 57.5}
+        - {x: 8.5, y: 60.5}
+        - {x: -44.5, y: 60.5}
+        - {x: -46.5, y: 57.5}
+        - {x: -46.5, y: 40.5}
+        - {x: -43.5, y: 31.5}
+        - {x: 51.5, y: 31.5}
+        - {x: 51.5, y: 58.5}
+        - {x: 43.5, y: 60.5}
+    - name: UI_Artboard 70_17
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 31
+        width: 149
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 17}
+        - {x: -44.5, y: 16}
+        - {x: -44.5, y: -79}
+        - {x: -39.5, y: -81}
+        - {x: 47.5, y: -81}
+        - {x: 51.5, y: -79}
+        - {x: 51.5, y: 17}
+      - - {x: 13.5, y: 60}
+        - {x: 6.5, y: 58}
+        - {x: 9.5, y: 57}
+        - {x: 2.5, y: 60}
+        - {x: -50.5, y: 60}
+        - {x: -52.5, y: 57}
+        - {x: -52.5, y: 33}
+        - {x: -44.5, y: 31}
+        - {x: 45.5, y: 31}
+        - {x: 45.5, y: 58}
+        - {x: 37.5, y: 60}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 9344b2ecd3d888742ba20f01e01f9c89
+timeCreated: 1463270782
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-40_0
+    21300002: UI-40_1
+    21300004: UI-40_2
+    21300006: UI-40_3
+    21300008: UI-40_4
+    21300010: UI-40_5
+    21300012: UI-40_6
+    21300014: UI-40_7
+    21300016: UI-40_8
+    21300018: UI-40_9
+    21300020: UI-40_10
+    21300022: UI-40_11
+    21300024: UI-40_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-40_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 133
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 17}
+        - {x: 11.5, y: 17}
+        - {x: 8.5, y: 11}
+        - {x: 1.5, y: 17}
+        - {x: -33.5, y: 17}
+        - {x: -35.5, y: 9}
+        - {x: -35.5, y: -17}
+        - {x: 35.5, y: -17}
+        - {x: 35.5, y: -6}
+        - {x: 25.5, y: 16}
+    - name: UI-40_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 133
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-40_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 133
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 16}
+        - {x: 37, y: 17}
+        - {x: -38, y: 17}
+        - {x: -38, y: -15}
+        - {x: -36, y: -17}
+        - {x: 38, y: -17}
+    - name: UI-40_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 133
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-40_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 132
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -18, y: 13}
+        - {x: -18, y: -11}
+        - {x: -9, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 11}
+        - {x: 12, y: 18}
+    - name: UI-40_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 132
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-40_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 133
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-40_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 133
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-40_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 133
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 17}
+        - {x: -25, y: -16}
+        - {x: -24, y: -17}
+        - {x: 25, y: -17}
+        - {x: 25, y: 17}
+    - name: UI-40_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 133
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-40_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 27
+        width: 246
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 21}
+        - {x: -53, y: 14}
+        - {x: -53, y: -76}
+        - {x: 41, y: -76}
+        - {x: 42, y: -72}
+        - {x: 42, y: 19}
+        - {x: 37, y: 21}
+      - - {x: -1, y: 67}
+        - {x: -2, y: 64}
+        - {x: -2, y: 62}
+        - {x: -2, y: 67}
+        - {x: -123, y: 67}
+        - {x: -123, y: 27}
+        - {x: 120, y: 27}
+        - {x: 120, y: 62}
+        - {x: 112, y: 67}
+    - name: UI-40_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 27
+        width: 159
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 23.5}
+        - {x: -53.5, y: -73.5}
+        - {x: 42.5, y: -73.5}
+        - {x: 42.5, y: 23.5}
+      - - {x: 61.5, y: 68.5}
+        - {x: 59.5, y: 66.5}
+        - {x: 59.5, y: 55.5}
+        - {x: 53.5, y: 64.5}
+        - {x: 50.5, y: 69.5}
+        - {x: 19.5, y: 69.5}
+        - {x: 18.5, y: 66.5}
+        - {x: 5.5, y: 69.5}
+        - {x: -78.5, y: 69.5}
+        - {x: -78.5, y: 36.5}
+        - {x: -73.5, y: 29.5}
+        - {x: 70.5, y: 29.5}
+        - {x: 73.5, y: 30.5}
+        - {x: 73.5, y: 64.5}
+        - {x: 68.5, y: 69.5}
+    - name: UI-40_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 173
+        width: 62
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

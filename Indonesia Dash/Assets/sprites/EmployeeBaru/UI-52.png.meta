@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 055bd5a91904608479599d768a22e46a
+timeCreated: 1463381435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-52_0
+    21300002: UI-52_1
+    21300004: UI-52_2
+    21300006: UI-52_3
+    21300008: UI-52_4
+    21300010: UI-52_5
+    21300012: UI-52_6
+    21300014: UI-52_7
+    21300016: UI-52_8
+    21300018: UI-52_9
+    21300020: UI-52_10
+    21300022: UI-52_11
+    21300024: UI-52_12
+    21300026: UI-52_13
+    21300028: UI-52_14
+    21300030: UI-52_15
+    21300032: UI-52_16
+    21300034: UI-52_17
+    21300036: UI-52_18
+    21300038: UI-52_19
+    21300040: UI-52_20
+    21300042: UI-52_21
+    21300044: UI-52_22
+    21300046: UI-52_23
+    21300048: UI-52_24
+    21300050: UI-52_25
+    21300052: UI-52_26
+    21300054: UI-52_27
+    21300056: UI-52_28
+    21300058: UI-52_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-52_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 213
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 213
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 213
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 213
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 213
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 213
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 213
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 213
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 213
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 213
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 213
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 213
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 213
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 213
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_15
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 213
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 213
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 213
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 213
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 213
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_20
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 213
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_21
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 213
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_22
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 213
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_23
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 213
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_24
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 213
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-52_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 134
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 15}
+        - {x: -44, y: 10}
+        - {x: -44, y: -74}
+        - {x: -43, y: -83}
+        - {x: 52, y: -83}
+        - {x: 52, y: 15}
+      - - {x: 31, y: 46}
+        - {x: 34, y: 48}
+        - {x: 35, y: 51}
+        - {x: 35, y: 55}
+        - {x: 35, y: 39}
+        - {x: 36, y: 37}
+        - {x: 40, y: 33}
+        - {x: 52, y: 33}
+        - {x: 52, y: 67}
+        - {x: -42, y: 67}
+        - {x: -45, y: 58}
+        - {x: -45, y: 43}
+        - {x: -43, y: 38}
+        - {x: -38, y: 33}
+        - {x: 35, y: 33}
+        - {x: 36, y: 35}
+        - {x: 36, y: 37}
+    - name: UI-52_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 93
+        width: 121
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 16.5}
+        - {x: -51.5, y: -83.5}
+        - {x: 38.5, y: -83.5}
+        - {x: 44.5, y: -81.5}
+        - {x: 44.5, y: 16.5}
+      - - {x: 26.5, y: 49.5}
+        - {x: 27.5, y: 52.5}
+        - {x: 27.5, y: 57.5}
+        - {x: 27.5, y: 40.5}
+        - {x: 33.5, y: 34.5}
+        - {x: 39.5, y: 34.5}
+        - {x: 45.5, y: 51.5}
+        - {x: 45.5, y: 67.5}
+        - {x: 43.5, y: 68.5}
+        - {x: -49.5, y: 68.5}
+        - {x: -52.5, y: 62.5}
+        - {x: -52.5, y: 36.5}
+        - {x: -49.5, y: 34.5}
+        - {x: 32.5, y: 34.5}
+        - {x: 28.5, y: 38.5}
+        - {x: 23.5, y: 47.5}
+    - name: UI-52_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 95
+        width: 126
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 17.5}
+        - {x: -54, y: 12.5}
+        - {x: -54, y: -80.5}
+        - {x: 42, y: -80.5}
+        - {x: 42, y: 17.5}
+      - - {x: -55, y: 69.5}
+        - {x: -55, y: 43.5}
+        - {x: -45, y: 35.5}
+        - {x: 38, y: 35.5}
+        - {x: 43, y: 46.5}
+        - {x: 43, y: 69.5}
+    - name: UI-52_28
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 95
+        width: 128
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 17.5}
+        - {x: -48, y: -80.5}
+        - {x: 47, y: -80.5}
+        - {x: 47, y: 15.5}
+        - {x: 43, y: 17.5}
+      - - {x: 43, y: 69.5}
+        - {x: -46, y: 69.5}
+        - {x: -50, y: 68.5}
+        - {x: -50, y: 43.5}
+        - {x: -40, y: 35.5}
+        - {x: 43, y: 35.5}
+        - {x: 48, y: 53.5}
+        - {x: 48, y: 66.5}
+    - name: UI-52_29
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 95
+        width: 120
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 10}
+        - {x: 36, y: 16}
+        - {x: 31, y: 19}
+        - {x: -44, y: 19}
+        - {x: -53, y: 15}
+        - {x: -53, y: -76}
+        - {x: -48, y: -79}
+        - {x: 37, y: -79}
+        - {x: 42, y: -71}
+        - {x: 42, y: 7}
+      - - {x: -53, y: 71}
+        - {x: -55, y: 70}
+        - {x: -55, y: 45}
+        - {x: -47, y: 37}
+        - {x: 43, y: 37}
+        - {x: 43, y: 71}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
